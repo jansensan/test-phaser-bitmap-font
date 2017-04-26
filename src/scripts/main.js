@@ -30,6 +30,33 @@
     "- Accented O's: òóôöøõōœ ÒÓÔÖØÕŌŒ" + "\n" +
     "- Accented U's: ùúûüū ÙÚÛÜŪ" + "\n" +
     "- Accented Y's and C's: ÿŸ çÇ";
+  var TO_KERN = "aîa bîb cîc dîd eîe fîf gîg hîh iîi jîj kîk lîl mîm\n" +
+    "nîn oîo pîp qîq rîr sîs tît uîu vîv wîw xîx yîy zîz\n" +
+    "àîà áîá âîâ äîä åîå äîä ãîã āîā āîā æîæ\n" +
+    "AîA BîB CîC DîD EîE FîF GîG HîH IîI JîJ KîK LîL MîM\n" +
+    "NîN OîO PîP QîQ RîR SîS TîT UîU VîV WîW XîX YîY ZîZ\n" +
+    "ÀîÀ ÁîÁ ÂîÂ ÄîÄ ÅîÅ ÃîÃ ĀîĀ ÆîÆ\n" +
+
+    "aÎa bÎb cÎc dÎd eÎe fÎf gÎg hÎh iÎi jÎj kÎk lÎl mÎm\n" +
+    "nÎn oÎo pÎp qÎq rÎr sÎs tÎt uÎu vÎv wÎw xÎx yÎy zÎz\n" +
+    "àÎà áÎá âÎâ äÎä åÎå äÎä ãÎã āÎā āÎā æÎæ\n" +
+    "AÎA BÎB CÎC DÎD EÎE FÎF GÎG HÎH IÎI JÎJ KÎK LÎL MÎM\n" +
+    "NÎN OÎO PÎP QÎQ RÎR SÎS TÎT UÎU VÎV WÎW XÎX YÎY ZÎZ\n" +
+    "ÀÎÀ ÁÎÁ ÂÎÂ ÄÎÄ ÅÎÅ ÃÎÃ ĀÎĀ ÆÎÆ\n" +
+
+    "aïa bïb cïc dïd eïe fïf gïg hïh iïi jïj kïk lïl mïm\n" +
+    "nïn oïo pïp qïq rïr sïs tït uïu vïv wïw xïx yïy zïz\n" +
+    "àïà áïá âïâ äïä åïå äïä ãïã āïā āïā æïæ\n" +
+    "AïA BïB CïC DïD EïE FïF GïG HïH IïI JïJ KïK LïL MïM\n" +
+    "NïN OïO PïP QïQ RïR SïS TïT UïU VïV WïW XïX YïY ZïZ\n" +
+    "ÀïÀ ÁïÁ ÂïÂ ÄïÄ ÅïÅ ÃïÃ ĀïĀ ÆïÆ\n" +
+
+    "aÏa bÏb cÏc dÏd eÏe fÏf gÏg hÏh iÏi jÏj kÏk lÏl mÏm\n" +
+    "nÏn oÏo pÏp qÏq rÏr sÏs tÏt uÏu vÏv wÏw xÏx yÏy zÏz\n" +
+    "àÏà áÏá âÏâ äÏä åÏå äÏä ãÏã āÏā āÏā æÏæ\n" +
+    "AÏA BÏB CÏC DÏD EÏE FÏF GÏG HÏH IÏI JÏJ KÏK LÏL MÏM\n" +
+    "NÏN OÏO PÏP QÏQ RÏR SÏS TÏT UÏU VÏV WÏW XÏX YÏY ZÏZ\n" +
+    "ÀÏÀ ÁÏÁ ÂÏÂ ÄÏÄ ÅÏÅ ÃÏÃ ĀÏĀ ÆÏÆ"
 
 
   // vars
